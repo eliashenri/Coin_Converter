@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Conversor de Moedas</string>
+    <string name="de">De</string>
+    <string name="para">Para</string>
+    <string name="valor">Valor</string>
+    <string name="converter">Converter</string>
+    <string name="digite_o_valor">Digite o valor</string>
+    <string name="resultado">Resultado</string>
+    <string name="validation_value">Um valor deve ser informado</string>
+</resources>
